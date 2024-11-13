@@ -1,0 +1,12 @@
+[project]
+authors = ["Ben Moss <bmoss40@bloomberg.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "lockfile"
+platforms = ["linux-64", "osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+crane = "*"
