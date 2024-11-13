@@ -1,6 +1,6 @@
 [project]
 authors = ["Ben Moss <bmoss40@bloomberg.com>"]
-channels = ["conda-forge"]
+channels = ["conda-forge", "https://repo.prefix.dev/wow"]
 description = "Add a short description here"
 name = "lockfile"
 platforms = ["linux-64", "osx-arm64"]
